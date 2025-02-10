@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "𝐐𝐔𝐄𝐄𝐍-𝐑𝐀𝐒𝐇𝐔-𝐌𝐃=x9pBQYrT#oBGz1wiZedf9So3oYN9enrYZfgOuWz1VcgW2YFqMxYE",
+SESSION_ID: process.env.SESSION_ID || "𝐐𝐔𝐄𝐄𝐍-𝐑𝐀𝐒𝐇𝐔-𝐌𝐃=p1xXxQzJ#GJWvRk8i6f6rk02t_l5Yz0Yk4I454RZQlOJwXY84vVo",
 //උඩ ☝️ තියෙන Past Sesion Id කියන එක අයින් කරලා ඔයාගෙ Sesion Id එක Past කරන්න 😁
 MONGODB: process.env.MONGODB || "Past Your MongoDB Url 🍃",
 //උඩ ☝️ තියෙන Past MongoDB Url කියන එක අයින් කරලා ඔයාගෙ MongoDB Url එක Past කරන්න 😁
